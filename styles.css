@@ -1,0 +1,23 @@
+:root {
+    --bs-primary-rgb: 40, 71, 184;
+
+}
+h1
+{
+   text-align: center;
+   padding-bottom: 7rem;
+   padding-top:7rem;
+}
+p
+{
+    text-align: center;
+}
+.fin 
+{
+    padding-bottom:0rem;
+    padding-top: 15rem;
+}
+footer
+{
+    background-color:blue;  
+}
